@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiahao Liu (Riddle Leo)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiahao Liu (Riddle Leo)"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jhliu.riddle@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Jiahao-Liu-34"
   uri              :
   bitbucket        :
   codepen          :
