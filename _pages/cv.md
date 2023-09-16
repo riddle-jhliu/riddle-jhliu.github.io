@@ -13,22 +13,35 @@ Education
 ======
 * B.S. in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021
 * M.S. in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
-<!--
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
--->
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021 - Now:
+  * 
+  * 
+  * Peking University
+  * Duties included: 
+  * Supervisor: Professor Moubin Liu
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2020 - Summer 2021:
+  * 
+  * Dalian University of Technology
+  * Duties included: Tagging issues
+  * Supervisor: Associate Professor Yue Mei
+
+* Spring 2019 - Spring 2020:
+  * 
+  * Dalian University of Technology
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor Shunying Ji
+
+* Winter 2020: 
+  * 
+  * Dalian University of Technology
+  * Duties included: Tagging issues
+  * Supervisor: Associate Professor Zongliang Du
+
 Skills
 ======
 * Skill 1
