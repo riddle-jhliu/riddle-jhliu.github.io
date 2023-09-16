@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021
+* M.S. in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
+<!--
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-->
 
 Work experience
 ======

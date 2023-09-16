@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Riddle's Website"
 title_separator          : "-"
-name                     : &name "Jiahao Liu (Riddle Leo)"
+name                     : &name "Jiahao Liu | (Riddle Leo)"
 description              : &description "personal description"
 url                      : https://riddle-jhliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

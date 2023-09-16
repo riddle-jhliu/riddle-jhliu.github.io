@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant experience 1 : Computational Mechanics 08611510"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Peking University, College of Engneering"
+date: 2023-03-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Computational description
 
-Heading 1
+Course description
+======
+Finite element method & Meshless methods
+
+Homework
 ======
 
-Heading 2
-======
-
+Daily performance record
 Heading 3
 ======
