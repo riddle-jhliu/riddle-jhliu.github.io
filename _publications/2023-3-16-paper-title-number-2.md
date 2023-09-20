@@ -3,6 +3,7 @@ title: "Numerical modeling of the damage mechanism of concrete-soil multilayered
 collection: publications
 permalink: /publication/2023-3-16-paper-title-number-2
 date: 2023-3-16
+excerpt: ' '
 venue: 'Engineering Analysis with Boundary Elements'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0955799723001182'
 citation: 'Jianyu Chen, Dianlei Feng, Jiahao Liu, Siyuan Yu, Yao Lu. (2023). &quot;Numerical modeling of the damage mechanism of concrete-soil multilayered medium subjected to underground explosion using the GPU-accelerated SPH.&quot; <i>Engineering Analysis with Boundary Elements</i>. 151: 265-274.'
