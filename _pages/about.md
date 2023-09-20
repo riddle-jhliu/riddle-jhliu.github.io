@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Riddle"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mr. Jiahao Liu is a postgraduate student in Peking University (Supervisor: Prof. [Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics. He has been focusing on research about computational fluid-structure interaction, meshless methods and high performance computing. He is looking forward to simulating everything and "Stay hungry, Stay foolish."
+Mr. Jiahao Liu is a postgraduate student in Peking University (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics. He has been focusing on research about computational fluid-structure interaction, meshless methods and high performance computing. He is looking forward to simulating everything and "Stay hungry, Stay foolish."
 
 Please feel free to contact him if any queries (中文/English/Русский)
 
@@ -17,7 +17,11 @@ Please feel free to contact him if any queries (中文/English/Русский)
 ## Education
 
 * **B.S.** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021
+(Supervisor: [A.P. Yue Mei](https://scholar.google.com/citations?user=aMNdUkUAAAAJ&hl=en), [Prof. Shunying Ji](https://www.researchgate.net/profile/Shunying-Ji)) 
+
 * **M.S.** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
+(Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) 
+
 * **Ph.D** in Unknown
 
 ## Contact

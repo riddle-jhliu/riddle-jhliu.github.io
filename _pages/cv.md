@@ -45,7 +45,7 @@ Awards
 * 2022 **"Best Paper Award"**, * 2022 SPHERIC International Workshop (SPHERIC Xi'an 2022)*, [SPHERIC (More information)](https://www.spheric-sph.org/)
 * 2021 **"Outstanding Graduates"** , *Dalian University of Technology*, China
 * 2020 **"Outstanding merit Student"**, *Dalian University of Technology*, China
-* 2019 "**Taoli scholarship**(Top $1 \textperthousand$)", *Dalian University of Technology*, China
+* 2019 "**Taoli scholarship**(Top thousandth)", *Dalian University of Technology*, China
 * 2019 **"Outstanding merit Student"**, *Dalian University of Technology*, China
 * 2019 "**Excellent study scholarship** (first prize)", *Dalian University of Technology*, China
 * 2018 **"NOK scholarship"**, *Dalian University of Technology*, China
