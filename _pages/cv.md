@@ -23,7 +23,7 @@ Research experience
   * Supervisor: Professor Moubin Liu
 
 * Spring 2020 - Summer 2021:
-  * 
+  * Finite-element framework of the virtual fields method in elasticity
   * Dalian University of Technology
   * Supervisor: Associate Professor Yue Mei
 
@@ -39,12 +39,13 @@ Research experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Fortran, C, Python, MATLAB, Tex (LaTex typesetting),...
+* Engneering Software
+  * LS-DYNA, FEBio, ANSYS, SolidWorks, ABAQUS
+  * Inventor, AutoCAD
+  * Inkscape, Visio, Photoshop, Premiere Pro, Lightroom
+  * Tecplot, ParaView, Origin
 
 Publications
 ======
