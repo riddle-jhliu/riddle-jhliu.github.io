@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021
 * M.S. in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
-* PhD in Unknown
+* Ph.D in Unknown
 
 Research experience
 ======
@@ -40,12 +40,13 @@ Research experience
 Skills
 ======
 * Programming
-  * Fortran, C, Python, MATLAB, Tex (LaTex typesetting),...
+  * Fortran, C, Python, MATLAB, Tex (LaTeX typesetting),...
 * Engneering Software
   * LS-DYNA, FEBio, ANSYS, SolidWorks, ABAQUS
+  * Tecplot, ParaView, Origin
   * Inventor, AutoCAD
   * Inkscape, Visio, Photoshop, Premiere Pro, Lightroom
-  * Tecplot, ParaView, Origin
+
 
 Publications
 ======
