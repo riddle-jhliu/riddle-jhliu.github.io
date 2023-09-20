@@ -20,22 +20,22 @@ Research experience
 * Spring 2021 - Now:
   * Smoothed Particle Hydrodynamics (SPH); Fluid-Structure Interaction; High Performance Computing; Extreme mechanics problems.
   * Peking University
-  * Supervisor: Professor Moubin Liu
+  * Supervisor: Prof. [Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)
 
 * Spring 2020 - Summer 2021:
   * Finite-element framework of the virtual fields method in elasticity
   * Dalian University of Technology
-  * Supervisor: Associate Professor Yue Mei
+  * Supervisor: Associate Prof. [Yue Mei](https://scholar.google.com/citations?user=aMNdUkUAAAAJ&hl=en) 
 
 * Spring 2019 - Spring 2020:
   * Discrete element (DEM) modeling of dynamic behaviors of ballasted railway track
   * Dalian University of Technology
-  * Supervisor: Professor Shunying Ji
+  * Supervisor: Prof. [Shunying Ji](https://www.researchgate.net/profile/Shunying-Ji)
 
 * Winter 2020: 
   * Numerical analysis of bi-modulus materials with tension-compression asymmetry.
   * Dalian University of Technology
-  * Supervisor: Associate Professor Zongliang Du
+  * Supervisor: Associate Prof. [Zongliang Du](https://scholar.google.com/citations?user=JqPlZWkAAAAJ&hl=en&oi=ao)
 
 Skills
 ======

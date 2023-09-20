@@ -8,23 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student in Peking University (Supervisor: Prof. [Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)), major in engneering mechanics and mainly study the computational fluid-structure interaction and high performance computing.
+Mr. Jiahao Liu is a postgraduate student in Peking University (Supervisor: Prof. [Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics. He has been focusing on research about computational fluid-structure interaction, meshless methods and high performance computing. He is looking forward to simulating everything and "Stay hungry, Stay foolish."
 
+Please feel free to contact him if any queries (中文/English/Русский)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Contact
 
-**Markdown generator**
+北京市海淀区颐和园路5号老生物楼207
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764.1770597606455!2d116.31114926983642!3d39.992624999999975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f056b218c9b797%3A0x11eb94f4c3cc4351!2sPeking%20University%20Student%20Society%20and%20Technology%20Association!5e0!3m2!1sen!2s!4v1695213221767!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
