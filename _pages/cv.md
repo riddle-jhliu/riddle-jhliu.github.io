@@ -43,6 +43,7 @@ Skills
   * Fortran, C, Python, MATLAB, Tex (LaTeX typesetting),...
 * Engneering Software
   * LS-DYNA, FEBio, ANSYS, SolidWorks, ABAQUS
+* Other Software
   * Tecplot, ParaView, Origin
   * Inventor, AutoCAD
   * Inkscape, Visio, Photoshop, Premiere Pro, Lightroom
