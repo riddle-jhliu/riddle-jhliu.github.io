@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* **B.S.** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021
+* **B.S.** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
+* **B.S.** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
 * **M.S.** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
 * **Ph.D** in Unknown
 
