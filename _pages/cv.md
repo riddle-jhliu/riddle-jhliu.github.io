@@ -58,14 +58,14 @@ Awards
 Skills
 ======
 * Programming
-  * Fortran, C, Python, MATLAB, Tex (LaTeX typesetting),...
+  * Fortran, C/C++, Python (Numpy, Pandas, Jupyter, Matplotlib), MATLAB, LaTeX, Linux, Makefile, Markdown, Git, HTML, etc.
 * Engneering Software
-  * LS-DYNA, FEBio, ANSYS, SolidWorks, ABAQUS
+  * LS-DYNA, FEBio, FEniCS, ANSYS, SolidWorks, ABAQUS
 * Other Software
   * Tecplot, ParaView, Origin
-  * Inventor, AutoCAD
+  * Zotero, EndNote;
+  * Inventor, AutoCAD (Certificated)
   * Inkscape, Visio, Photoshop, Premiere Pro, Lightroom
-
 
 Publications
 ======
