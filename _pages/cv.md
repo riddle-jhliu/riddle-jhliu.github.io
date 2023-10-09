@@ -40,6 +40,8 @@ Research experience
 
 Awards
 ======
+* 2023 **"Dean scholarship"** , *Peking University*, China
+* 2023 **"Scientific practice innovation scholarship"** , *Peking University*, China
 * 2022 **"Special academic scholarship"** , *Peking University*, China
 * 2022 **"Academic Rising Star"** , *Peking University*, China 
 <!-- * (only 5 students in the whole college every year) -->
@@ -66,6 +68,10 @@ Skills
   * Zotero, EndNote;
   * Inventor, AutoCAD (Certificated)
   * Inkscape, Visio, Photoshop, Premiere Pro, Lightroom
+* Self-taught Course
+  * Computer graphics
+* Hobbies & Specialty
+  * Photography, Calligraphy, Swimming, Snowboarding, Basketball, etc.
 
 Publications
 ======
