@@ -23,5 +23,10 @@ var addressPoints = [
     "Dalian, China",
     38.9181714,
     121.6282945
+  ],
+  [
+    "Yokohama, Japen",
+    35.4437078,
+    139.6380256
   ]
 ];
