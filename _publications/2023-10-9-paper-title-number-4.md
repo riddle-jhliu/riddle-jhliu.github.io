@@ -6,7 +6,7 @@ date: 2023-10-9
 excerpt: ' '
 venue: 'Computer Physics Communication'
 paperurl: ''
-citation: 'Jiahao Liu, Xiufeng Yang, Zhilang Zhang, Moubin Liu. (2023). &quot;A massive MPI parallel framework of smoothed particle hydrodynamics with optimized memory management for extreme mechanics problems.&quot; <i>Computer Physics Communication</i>. (Revised).'
+citation: 'Jiahao Liu, Xiufeng Yang, Zhilang Zhang, Moubin Liu. (2023). &quot;A massive MPI parallel framework of smoothed particle hydrodynamics with optimized memory management for extreme mechanics problems.&quot; <i>Computer Physics Communication</i>. (Accepted).'
 ---
 
 **Abstract**
