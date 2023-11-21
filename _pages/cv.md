@@ -94,3 +94,4 @@ Teaching
 Service
 ======
 * Reviewer of *Engineering Analysis with Boundary Elements*
+* Member of *The Chinese Society of Theoretical and Applied Mechanics (CSTAM)*
