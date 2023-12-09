@@ -16,12 +16,12 @@ Please feel free to contact him if any queries (中文/English/Русский)
 
 ## Education
 
-* **B.S.** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
-(Supervisor: [A.P. Yue Mei](https://scholar.google.com/citations?user=aMNdUkUAAAAJ&hl=en), [Prof. Shunying Ji](https://www.researchgate.net/profile/Shunying-Ji)) 
-* **B.S.** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
+* **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
+(Supervisor: [Prof. Yue Mei](https://scholar.google.com/citations?user=aMNdUkUAAAAJ&hl=en), [Prof. Shunying Ji](https://www.researchgate.net/profile/Shunying-Ji)) 
+* **Bachelor's Degree** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
 (Supervisor: Prof. Miao Yu)
 
-* **M.S.** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
+* **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
 (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) 
 
 * **Ph.D** in Unknown

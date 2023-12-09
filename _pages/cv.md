@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **B.S.** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
-* **B.S.** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
-* **M.S.** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
+* **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
+* **Bachelor's Degree** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
+* **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
 * **Ph.D** in Unknown
 
 Research experience
@@ -61,7 +61,7 @@ Skills
 ======
 * Programming
   * Fortran, C/C++, Python (Numpy, Pandas, Jupyter, Matplotlib), MATLAB, LaTeX, Linux, Makefile, Markdown, Git, HTML, etc.
-* Engneering Software
+* Industrial Software
   * LS-DYNA, FEBio, FEniCS, ANSYS, SolidWorks, ABAQUS
 * Other Software
   * Tecplot, ParaView, Origin
