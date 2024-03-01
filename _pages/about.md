@@ -12,7 +12,7 @@ Mr. Jiahao Liu is a postgraduate student in Peking University (Supervisor: [Prof
 
 Please feel free to contact him if any queries (中文/English/Русский)
 
-<p align="right"> (Recent update on 2023/12/26) </p>
+<p align="right"> (Recent update on 2024/2/18) </p>
 
 ## Education
 
