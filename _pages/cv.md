@@ -14,7 +14,7 @@ Education
 * **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
 * **Bachelor's Degree** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
 * **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
-* **Ph.D** in Unknown
+* **Ph.D** in Mechanics of Solid, School of Engineering, Brown University, 2029
 
 Research experience
 ======
