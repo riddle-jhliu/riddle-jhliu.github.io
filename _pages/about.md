@@ -24,7 +24,7 @@ Please feel free to contact him if any queries (中文/English/Русский)
 * **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
 (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) 
 
-* **Ph.D** in Mechanics of Solid, School of Engineering, Brown University, 2029 (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
+* **Ph.D** in Mechanics of Solids, School of Engineering, Brown University, 2029 (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
 
 ## Contact
 
