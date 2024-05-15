@@ -14,7 +14,7 @@ Education
 * **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
 * **Bachelor's Degree** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
 * **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
-* **Ph.D** in Mechanics of Solids, School of Engineering, Brown University, 2029
+* **Ph.D.** in Mechanics of Solids, School of Engineering, Brown University, 2029
 
 Research experience
 ======
@@ -47,13 +47,14 @@ Awards
 <!-- * (only 5 students in the whole college every year) -->
 * 2022 **"Best Paper Award"**, * 2022 SPHERIC International Workshop (SPHERIC Xi'an 2022)*, [SPHERIC (More information)](https://www.spheric-sph.org/)
 * 2021 **"Outstanding Graduates"** , *Dalian University of Technology*, China
-* 2020 **"Outstanding merit Student"**, *Dalian University of Technology*, China
+* 2020, 2019, 2018 **"Outstanding merit Student"**, *Dalian University of Technology*, China
+<!-- * 2020 **"Outstanding merit Student"**, *Dalian University of Technology*, China -->
 * 2019 "**Taoli scholarship**(Top thousandth)", *Dalian University of Technology*, China
-* 2019 **"Outstanding merit Student"**, *Dalian University of Technology*, China
+<!-- * 2019 **"Outstanding merit Student"**, *Dalian University of Technology*, China -->
 * 2019 "**Excellent study scholarship** (first prize)", *Dalian University of Technology*, China
 * 2018 **"NOK scholarship"**, *Dalian University of Technology*, China
-* 2018 **"Outstanding merit Student"**, *Dalian University of Technology*, China
-* 2017-2020 **"Different individual scholarships"** (including Science and Technology Innovation Prize, High Morality Prize, Social Work Prize, Cultural and Sports Prize), *Dalian University of Technology*, China
+<!-- * 2018 **"Outstanding merit Student"**, *Dalian University of Technology*, China -->
+<!-- * 2017-2020 **"Different individual scholarships"** (including Science and Technology Innovation Prize, High Morality Prize, Social Work Prize, Cultural and Sports Prize), *Dalian University of Technology*, China -->
 
 
 

@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Mr. Jiahao Liu is a postgraduate student in Peking University (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics. He has been focusing on research about computational fluid-structure interaction, meshless methods and high performance computing. He is looking forward to simulating everything and "Stay hungry, Stay foolish."
+Mr. Jiahao Liu is a postgraduate student in Peking University (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics. He has been focusing on research about computational fluid-structure interaction, meshless methods and high performance computing. He is going to pursue the Ph.D. in Brown University (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)). He has immersed himself in computational mechanics, diligently improving his "*yield strength*" and "*fatigue strength*". He is looking forward to simulating everything and building the bridge from theoretical knowledge to engineering applications.
+ <!-- "Stay hungry, Stay foolish." -->
 
 Please feel free to contact him if any queries (中文/English/Русский)
 
-<p align="right"> (Recent update on 2024/4/12) </p>
+<p align="right"> (Recent update on 2024/5/15) </p>
 
 ## Education
 
@@ -28,7 +29,7 @@ Please feel free to contact him if any queries (中文/English/Русский)
 
 ## Contact
 
-北京市海淀区颐和园路5号老生物楼207
+北京市海淀区颐和园路5号新工学大楼355
 
 No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China
 
