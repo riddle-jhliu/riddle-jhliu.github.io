@@ -33,7 +33,7 @@ Please feel free to contact him if any queries (中文/English)
 
 ## Contact
 
-184 HOPE STREET
+2nd Floor Room 250, 184 HOPE STREET
 PROVIDENCE, Rhode Island 02912
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1486.539000557404!2d-71.3990189723801!3d41.826618496405914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e4453b2f235349%3A0x9fc9fa4d83dda5eb!2sBrown%20University%20School%20of%20Engineering!5e0!3m2!1sen!2sus!4v1724548411709!5m2!1sen!2sus" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
