@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Mr. Jiahao Liu is a postgraduate student in Peking University (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics. He has been focusing on research about computational fluid-structure interaction, meshless methods and high performance computing. He is going to pursue the Ph.D. in Brown University (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)). He has immersed himself in computational mechanics, diligently improving his "*yield strength*" and "*fatigue strength*". He is looking forward to simulating everything and building the bridge from theoretical knowledge to engineering applications. In terms of hobbies, he likes music, calligraphy, and all kinds of sports, such as snowboarding, basketball and swimming.
+Mr. Jiahao Liu is a PhD candidate in Brown University (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) and major in Mechanics of Solids.
+<!-- postgraduate student in Peking University (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics.  -->
+He has been focusing on research about computational fluid-structure interaction, mesh-based method, meshless methods and high performance computing. 
+  He has immersed himself in computational mechanics, diligently improving his "*yield strength*" and "*fatigue strength*". He is looking forward to simulating everything and building the bridge from theoretical knowledge to engineering applications. In terms of hobbies, he likes music, calligraphy, and all kinds of sports, such as snowboarding, basketball and swimming.
  <!-- "Stay hungry, Stay foolish." -->
 
 Please feel free to contact him if any queries (中文/English)
 
 <!-- /Русский -->
-<p align="right"> (Recent update on 2024/6/11) </p>
+<p align="right"> (Recent update on 2024/8/24) </p>
 
 ## Education
 
@@ -30,8 +33,7 @@ Please feel free to contact him if any queries (中文/English)
 
 ## Contact
 
-北京市海淀区颐和园路5号新工学大楼355
+184 HOPE STREET
+PROVIDENCE, Rhode Island 02912
 
-No.5 Yiheyuan Road, Haidian District, Beijing 100871, P.R.China
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764.1770597606455!2d116.31114926983642!3d39.992624999999975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f056b218c9b797%3A0x11eb94f4c3cc4351!2sPeking%20University%20Student%20Society%20and%20Technology%20Association!5e0!3m2!1sen!2s!4v1695213221767!5m2!1sen!2s" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1486.539000557404!2d-71.3990189723801!3d41.826618496405914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e4453b2f235349%3A0x9fc9fa4d83dda5eb!2sBrown%20University%20School%20of%20Engineering!5e0!3m2!1sen!2sus!4v1724548411709!5m2!1sen!2sus" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
