@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Riddle's Webpage"
 title_separator          : "-"
-name                     : &name "Jiahao Liu | (Riddle Liu)"
+name                     : &name "Jiahao (Riddle) Liu"
 description              : &description "personal description"
 url                      : https://riddle-jhliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiahao Liu (Riddle Liu)"
   avatar           : "jhliu.jpg"
-  bio              : "Postgraduate in Peking University"
-  location         : "Beijing, China"
+  bio              : "PhD Candidate in Brown University"
+  location         : "Providence, Rhode Island, United States"
   employer         :
   pubmed           : https://www.webofscience.com/wos/author/record/JHU-0972-2023
   googlescholar    : "https://scholar.google.com/citations?user=Lhf4YHcAAAAJ&hl=en"
