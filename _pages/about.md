@@ -17,7 +17,7 @@ He has been focusing on research about computational fluid-structure interaction
 Please feel free to contact him if any queries (中文/English)
 
 <!-- /Русский -->
-<p align="right"> (Recent update on 2024/8/24) </p>
+<p align="right"> (Recent update on 2024/9/30) </p>
 
 ## Education
 

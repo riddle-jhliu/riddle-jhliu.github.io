@@ -18,7 +18,12 @@ Education
 
 Research experience
 ======
-* Spring 2021 - Now:
+* August 2024 - Now:
+  * Reproducing Kernel Particle Method (RKPM); Isogeometric Analysis (IGA); Fluid-Structure Interaction; Shell modeling.
+  * Brown University
+  * Supervisor: Prof. [Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)
+
+* Spring 2021 - August 2024:
   * Smoothed Particle Hydrodynamics (SPH); Fluid-Structure Interaction; High Performance Computing; Extreme mechanics problems.
   * Peking University
   * Supervisor: Prof. [Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)
@@ -38,8 +43,9 @@ Research experience
   * Dalian University of Technology
   * Supervisor: Associate Prof. [Zongliang Du](https://scholar.google.com/citations?user=JqPlZWkAAAAJ&hl=en&oi=ao)
 
-Awards
+Selected Awards
 ======
+* 2024 **"ESE Studentship"** , *Engineering and Physical Sciences Research Council (EPSRC)*, UK
 * 2023 **"Dean scholarship"** , *Peking University*, China
 * 2023 **"Scientific practice innovation scholarship"** , *Peking University*, China
 * 2022 **"Special academic scholarship"** , *Peking University*, China
