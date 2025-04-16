@@ -20,16 +20,15 @@ Please feel free to contact him if any queries (中文/English)
 <p align="right"> (Recent update on 2025/3/10) </p>
 
 ## Education
-
+* **Ph.D** in Mechanics of Solids, School of Engineering, Brown University, 2029 (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
+* **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
+(Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) 
 * **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
 (Supervisor: [Prof. Yue Mei](https://scholar.google.com/citations?user=aMNdUkUAAAAJ&hl=en), [Prof. Shunying Ji](https://www.researchgate.net/profile/Shunying-Ji)) 
 * **Bachelor's Degree** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
 (Supervisor: Prof. Miao Yu)
 
-* **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
-(Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) 
 
-* **Ph.D** in Mechanics of Solids, School of Engineering, Brown University, 2029 (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
 
 ## Contact
 
