@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Mechanics of Solids, School of Engineering, Brown University, 2029
+* **Ph.D.** in Mechanics of Solids, School of Engineering, Brown University, 2028 expected
 * **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
 * **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
 * **Bachelor's Degree** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
@@ -19,7 +19,7 @@ Education
 Research experience
 ======
 * August 2024 - Now:
-  * Isogeometric Analysis (IGA); Stability; Reproducing Kernel Particle Method (RKPM); Fluid-Structure Interaction; Shell modeling.
+  * Isogeometric Analysis (IGA); Stability Analysis; Jax-based Computing; Reduced Quadrature; Reproducing Kernel Particle Method (RKPM); Fluid-Structure Interaction; Shell modeling.
   * Brown University
   * Supervisor: Prof. [Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)
 
