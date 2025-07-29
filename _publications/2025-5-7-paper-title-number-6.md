@@ -1,5 +1,5 @@
 ---
-title: "cent progress in multi-physics simulation based on the smoothed particle hydrodynamics"
+title: "Recent progress in multi-physics simulation based on the smoothed particle hydrodynamics"
 collection: publications
 permalink: /publication/2025-5-7-paper-title-number-6
 date: 2025-5-7
