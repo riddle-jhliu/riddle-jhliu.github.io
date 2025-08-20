@@ -17,7 +17,7 @@ He has been focusing on research about computational fluid-structure interaction
 Please feel free to contact him if any queries (中文/English)
 
 <!-- /Русский -->
-<p align="right"> (Recent update on 2025/7/20) </p>
+<p align="right"> (Recent update on 2025/8/20) </p>
 
 ## Education
 * **Ph.D** in Mechanics of Solids, School of Engineering, Brown University, expected (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
@@ -32,7 +32,7 @@ Please feel free to contact him if any queries (中文/English)
 
 ## Contact
 
-2nd Floor Near Room 250, 184 HOPE STREET
-PROVIDENCE, Rhode Island 02912
+Besides Meeting Room 250, Brown University Engineering Research Center, 345 Brook St
+Providence, Rhode Island 02912
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1486.539000557404!2d-71.3990189723801!3d41.826618496405914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e4453b2f235349%3A0x9fc9fa4d83dda5eb!2sBrown%20University%20School%20of%20Engineering!5e0!3m2!1sen!2sus!4v1724548411709!5m2!1sen!2sus" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5946.164465879494!2d-71.40114382267268!3d41.8265273686397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e445cc445ec1eb%3A0x33dbf48bee59674d!2sBrown%20University%20Engineering%20Research%20Center!5e0!3m2!1sen!2sus!4v1755706189301!5m2!1sen!2sus" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

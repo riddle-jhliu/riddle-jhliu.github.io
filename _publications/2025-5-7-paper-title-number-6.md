@@ -6,7 +6,7 @@ date: 2025-5-7
 excerpt: ' '
 venue: 'Advances in Mechanics'
 paperurl: 'https://www.researchgate.net/profile/Yibo-Ma-2/publication/391910274_jiyuguanghualizifadeduowulichangouhemoniyanjiujinzhanRecent_progress_in_multi-physics_simulation_based_on_the_smoothed_particle_hydrodynamics/links/682d3ce58a76251f22e369d6/jiyuguanghualizifadeduowulichangouhemoniyanjiujinzhanRecent-progress-in-multi-physics-simulation-based-on-the-smoothed-particle-hydrodynamics.pdf'
-citation: 'Ma Y B, Shen W H, Lu Y, Liu J H, Ma L X, Liu M B. Recent progress in multi-physics simulation
+citation: 'Yibo Ma, Wenhao Shen, Yao Lu, Jiahao Liu, Lingxiao Ma, Moubin Liu. Recent progress in multi-physics simulation
 based on the smoothed particle hydrodynamics. Advances in Mechanics, in press'
 ---
 
