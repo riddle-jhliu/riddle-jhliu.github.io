@@ -28,5 +28,10 @@ var addressPoints = [
     "Yokohama, Japen",
     35.4437078,
     139.6380256
+  ],
+  [
+    "Providence, RI, USA",
+    41.8246,
+    71.4142
   ]
 ];
