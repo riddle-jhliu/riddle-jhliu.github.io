@@ -19,7 +19,7 @@ Education
 Research experience
 ======
 * August 2024 - Now:
-  * Isogeometric Analysis (IGA); Stability Analysis; Jax-based Computing; Reduced Quadrature; Reproducing Kernel Particle Method (RKPM); Fluid-Structure Interaction; Shell modeling.
+  * Isogeometric Analysis (IGA); Stability Analysis; Triply Periodic Minimal Surface Structures; Jax-based Computing; Reduced Quadrature; Reproducing Kernel Particle Method (RKPM); Fluid-Structure Interaction; Shell modeling.
   * Brown University
   * Supervisor: Prof. [Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)
 
@@ -67,7 +67,7 @@ Selected Awards
 Skills
 ======
 * Programming
-  * Fortran, C/C++, Python (Numpy, Pandas, Jupyter, Matplotlib), MATLAB, LaTeX, Linux, Makefile, Markdown, Git, HTML, etc.
+  * Fortran, C/C++, Python (Jax, Numpy, Pandas, Jupyter, Matplotlib), MATLAB, LaTeX, Linux, Makefile, Markdown, Git, HTML, etc.
 * Industrial Software
   * LS-DYNA, FEBio, FEniCS, ANSYS, SolidWorks, ABAQUS
 * Other Software
@@ -78,7 +78,7 @@ Skills
 * Self-taught Course
   * Computer graphics
 * Hobbies & Specialty
-  * Photography, Calligraphy, Swimming, Snowboarding, Basketball, etc.
+  * Photography, Calligraphy, Tennis, Swimming, Snowboarding, Basketball, etc.
 
 Publications
 ======
