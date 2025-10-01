@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate in Brown University"
   location         : "Providence, Rhode Island, United States"
   employer         :
-  pubmed           : https://www.webofscience.com/wos/author/record/JHU-0972-2023
+  pubmed           : "https://www.webofscience.com/wos/author/record/JHU-0972-2023"
   googlescholar    : "https://scholar.google.com/citations?user=Lhf4YHcAAAAJ&hl=en"
   email            : "jhliu.riddle@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Jiahao-Liu-34"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jiahao-liu-79821a219/"
   orcid            : "http://orcid.org/0000-0003-1926-8448"
   pinterest        :
   soundcloud       :
