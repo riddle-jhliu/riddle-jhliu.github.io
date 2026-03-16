@@ -14,10 +14,10 @@ He has been focusing on research about computational fluid-structure interaction
   He has immersed himself in computational mechanics, diligently improving his "*yield strength*" and "*fatigue strength*". He is looking forward to simulating everything and building the bridge from theoretical knowledge to engineering applications. In terms of hobbies, he likes music, calligraphy, and all kinds of sports, such as snowboarding, tennis, basketball and swimming.
  <!-- "Stay hungry, Stay foolish." -->
 
-Please feel free to contact him if any queries (中文/English)
+Please feel free to contact him if any queries.
 
 <!-- /Русский -->
-<p align="right"> (Recent update on 2025/9/30) </p>
+<p align="right"> (Recent update on 2026/3/12) </p>
 
 ## Education
 * **Ph.D** in Mechanics of Solids, School of Engineering, Brown University, expected (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
