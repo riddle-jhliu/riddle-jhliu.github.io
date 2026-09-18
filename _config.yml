@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Riddle's Webpage"
 title_separator          : "-"
 name                     : &name "Jiahao (Riddle) Liu"
-description              : &description "personal description"
+description              : &description "PhD candidate in Mechanics of Solids at Brown University, working on computational fluid-structure interaction, isogeometric analysis, and high-performance computing."
 url                      : https://riddle-jhliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "riddle-jhliu/riddle-jhliu.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
