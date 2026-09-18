@@ -20,7 +20,7 @@ Research experience
 ======
 * August 2024 - Now:
   * Isogeometric Analysis (IGA); Stability Analysis; Triply Periodic Minimal Surface Structures; Jax-based Computing; Reduced Quadrature; Reproducing Kernel Particle Method (RKPM); Fluid-Structure Interaction; Shell modeling.
-  * Brown University, Vanderbilt Univeristy
+  * Brown University, Vanderbilt University
   * Supervisor: Prof. [Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)
 
 * Spring 2021 - August 2024:
