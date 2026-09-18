@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Riddle's Webpage"
+title                    : "Jiahao Liu"
 title_separator          : "-"
-name                     : &name "Jiahao (Riddle) Liu"
+name                     : &name "Jiahao Liu"
 description              : &description "PhD candidate in Mechanics of Solids at Brown University, working on computational fluid-structure interaction, isogeometric analysis, and high-performance computing."
 url                      : https://riddle-jhliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiahao Liu (Riddle Liu)"
+  name             : "Jiahao Liu"
   avatar           : "jhliu.png"
   bio              : "PhD Candidate in Brown University"
   location         : "Nashville, Tennessee, United States"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/riddle-liu"
+  github           : "riddle-liu"
   google_plus      :
   keybase          :
   instagram        :
@@ -197,7 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -208,14 +208,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -224,7 +224,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -233,7 +233,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -242,7 +242,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS
