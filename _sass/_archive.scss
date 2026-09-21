@@ -42,6 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: 1.05em;
 
   a + a {
     opacity: 0.5;
@@ -71,6 +72,36 @@
   overflow: hidden;
   img {
     width: 100%;
+  }
+}
+
+/*
+   List item with a teaser image (e.g. publication figures)
+   ========================================================================== */
+
+.list__item .archive__item--has-teaser {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5em;
+
+  .archive__item-teaser {
+    flex: 0 0 180px;
+    width: 180px;
+  }
+
+  .archive__item-body {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  @include breakpoint(max-width $small) {
+    flex-direction: column;
+
+    .archive__item-teaser {
+      flex-basis: auto;
+      width: 100%;
+      max-width: 280px;
+    }
   }
 }
 
