@@ -10,6 +10,7 @@ citation: 'Jiahao Liu, Moubin Liu. (2023). &quot;MPI Massive Parallelization of 
 header:
   teaser:
     - publications/2023-shaped-charge-numerical-model.jpg
+    - publications/2026-jet-breakup-scaling.jpg
 ---
 
 

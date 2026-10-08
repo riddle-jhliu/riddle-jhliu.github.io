@@ -74,16 +74,17 @@
     width: 100%;
   }
 
-  /* more than one image: wrap them into an even grid instead of stacking full-width */
+  /* more than one image: wrap them into an even grid, with enough gap
+     that it reads as separate figures instead of one wide collage */
   &--multi {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.4em;
+    gap: 1em;
     overflow: visible;
 
     img {
-      flex: 0 0 calc(50% - 0.2em);
-      width: calc(50% - 0.2em);
+      flex: 0 0 calc(50% - 0.5em);
+      width: calc(50% - 0.5em);
       border-radius: $border-radius;
     }
   }
@@ -119,8 +120,8 @@
   }
 
   &.archive__item--has-teaser-multi .archive__item-teaser {
-    flex-basis: 320px;
-    width: 320px;
+    flex-basis: 340px;
+    width: 340px;
 
     @include breakpoint(max-width $small) {
       width: 100%;
