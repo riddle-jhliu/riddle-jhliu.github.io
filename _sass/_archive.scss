@@ -103,6 +103,23 @@
       max-width: 280px;
     }
   }
+
+  &.archive__item--has-teaser-pair .archive__item-teaser {
+    flex-basis: 320px;
+    width: 320px;
+    display: flex;
+    gap: 0.4em;
+
+    img {
+      width: calc(50% - 0.2em);
+      border-radius: $border-radius;
+    }
+
+    @include breakpoint(max-width $small) {
+      width: 100%;
+      max-width: 280px;
+    }
+  }
 }
 
 .archive__item:hover {

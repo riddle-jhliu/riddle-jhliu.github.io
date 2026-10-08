@@ -9,6 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010465526001037'
 citation: 'Lingxiao Ma, Jiahao Liu, Xiufeng Yang, Moubin Liu. (2026). &quot;A massive MPI parallel adaptive resolution SPH method for large-scale multiphase flow simulations.&quot; <i>Computer Physics Communication</i>. 110121.'
 header:
   teaser: publications/2026-jet-breakup-scaling.jpg
+  teaser2: publications/2026-droplet-coalescence.jpg
 ---
 
 **Abstract**
