@@ -99,14 +99,18 @@
   align-items: flex-start;
   gap: 1.5em;
 
+  /* text reads left-to-right first, teaser image(s) sit on the right */
   .archive__item-teaser {
+    order: 2;
     flex: 0 0 180px;
     width: 180px;
   }
 
   .archive__item-body {
+    order: 1;
     flex: 1 1 auto;
     min-width: 0;
+    text-align: left;
   }
 
   @include breakpoint(max-width $small) {
