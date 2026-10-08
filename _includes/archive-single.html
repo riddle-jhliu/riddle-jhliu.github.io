@@ -1,15 +1,11 @@
 {% include base_path %}
 
 {% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+  {% assign teasers = post.header.teaser %}
 {% elsif post.collection == 'publications' %}
-  {% assign teaser = "publications/placeholder.svg" %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
-{% if post.header.teaser2 %}
-  {% capture teaser2 %}{{ post.header.teaser2 }}{% endcapture %}
+  {% assign teasers = "publications/placeholder.svg" | split: "|" %}
+{% elsif site.teaser %}
+  {% assign teasers = site.teaser | split: "|" %}
 {% endif %}
 
 {% if post.id %}
@@ -19,25 +15,18 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item{% if teaser %} archive__item--has-teaser{% endif %}{% if teaser2 %} archive__item--has-teaser-pair{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-        {% if teaser2 %}
+  <article class="archive__item{% if teasers %} archive__item--has-teaser{% endif %}{% if teasers.size > 1 %} archive__item--has-teaser-multi{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if teasers %}
+      <div class="archive__item-teaser{% if teasers.size > 1 %} archive__item-teaser--multi{% endif %}">
+        {% for img in teasers %}
           <img src=
-            {% if teaser2 contains "://" %}
-              "{{ teaser2 }}"
+            {% if img contains "://" %}
+              "{{ img }}"
             {% else %}
-              "{{ teaser2 | prepend: "/images/" | prepend: base_path }}"
+              "{{ img | prepend: "/images/" | prepend: base_path }}"
             {% endif %}
             alt="">
-        {% endif %}
+        {% endfor %}
       </div>
     {% endif %}
 

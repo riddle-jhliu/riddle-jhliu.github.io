@@ -8,7 +8,8 @@ venue: 'The International Conference on Computational & Experimental Engineering
 paperurl: 'https://doi.org/10.32604/icces.2023.010056'
 citation: 'Jiahao Liu, Moubin Liu. (2023). &quot;MPI Massive Parallelization of Smoothed Particle Hydrodynamics for Simulation of Impact and Explosion Problems.&quot; <i>The International Conference on Computational & Experimental Engineering and Sciences</i>. 25(3), 1-1.'
 header:
-  teaser: publications/2023-shaped-charge-numerical-model.jpg
+  teaser:
+    - publications/2023-shaped-charge-numerical-model.jpg
 ---
 
 

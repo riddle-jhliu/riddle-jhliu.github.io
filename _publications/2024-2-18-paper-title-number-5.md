@@ -8,7 +8,8 @@ venue: 'International Journal of Computational Methods'
 paperurl: 'https://www.worldscientific.com/doi/abs/10.1142/S0219876223420057'
 citation: 'Xiaoxiao Li, Jiahao Liu, Yao Lu, and Moubin Liu. (2024). &quot;A Novel Fast and Body-Fitted Particle Generation Technique for Large-Scale SPH Simulations&quot; <i>International Journal of Computational Methods</i>. doi: 10.1142/S0219876223420057.'
 header:
-  teaser: publications/2024-particle-generation-bird.webp
+  teaser:
+    - publications/2024-particle-generation-bird.webp
 ---
 
 **Abstract**
