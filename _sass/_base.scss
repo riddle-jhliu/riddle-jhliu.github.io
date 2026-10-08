@@ -2,15 +2,19 @@
    BASE ELEMENTS
    ========================================================================== */
 html {
-  /* sticky footer fix */
   position: relative;
   min-height: 100%;
 }
 
 body {
+  /* sticky footer fix: footer height is variable (contact links wrap
+     differently per page/viewport), so push it down with flex layout
+     instead of relying on a fixed padding-bottom + absolute position */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   margin: 0;
   padding: 0;
-  padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
