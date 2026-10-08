@@ -73,6 +73,20 @@
   img {
     width: 100%;
   }
+
+  /* more than one image: wrap them into an even grid instead of stacking full-width */
+  &--multi {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    overflow: visible;
+
+    img {
+      flex: 0 0 calc(50% - 0.2em);
+      width: calc(50% - 0.2em);
+      border-radius: $border-radius;
+    }
+  }
 }
 
 /*
@@ -99,6 +113,16 @@
 
     .archive__item-teaser {
       flex-basis: auto;
+      width: 100%;
+      max-width: 280px;
+    }
+  }
+
+  &.archive__item--has-teaser-multi .archive__item-teaser {
+    flex-basis: 320px;
+    width: 320px;
+
+    @include breakpoint(max-width $small) {
       width: 100%;
       max-width: 280px;
     }

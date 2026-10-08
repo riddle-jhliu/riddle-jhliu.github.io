@@ -8,7 +8,9 @@ venue: 'Journal of Elasticity'
 paperurl: 'https://link.springer.com/article/10.1007/s10659-021-09842-8'
 citation: 'Yue Mei, Jiahao Liu, Xu Guo, Brandon Zimmerman, Thao D. Nguyen, Stéphane Avril. (2021). &quot;General Finite-Element Framework of the Virtual Fields Method in Nonlinear Elasticity.&quot; <i>Journal of Elasticity</i>. 145(1-2): 265-294.'
 header:
-  teaser: publications/2021-eye-biomechanics.webp
+  teaser:
+    - publications/2021-eye-biomechanics.webp
+    - publications/2021-kinematics-configuration.png
 ---
 
 
