@@ -25,7 +25,7 @@
             {% else %}
               "{{ img | prepend: "/images/" | prepend: base_path }}"
             {% endif %}
-            alt="">
+            alt="{{ post.title | strip_html | escape }} - figure">
         {% endfor %}
       </div>
     {% endif %}

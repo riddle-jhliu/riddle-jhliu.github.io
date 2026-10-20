@@ -72,6 +72,10 @@
   overflow: hidden;
   img {
     width: 100%;
+    /* figures come from different papers at wildly different native
+       aspect ratios; crop to a consistent box so thumbnails line up */
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
   }
 
   /* more than one image: wrap them into an even grid, with enough gap
