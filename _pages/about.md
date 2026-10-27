@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Mr. Jiahao Liu is a PhD candidate at Brown University (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) majoring in Mechanics of Solids.
+Mr. Jiahao Liu is a Ph.D. candidate at Brown University (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) majoring in Mechanics of Solids.
 <!-- postgraduate student in Peking University (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) and major in engneering mechanics.  -->
 He has been focusing on research about computational fluid-structure interaction, mesh-based methods, meshless methods and high performance computing. He is working on Updated Lagrangian IGA for thin shell and stability of Triply Periodic Minimal Surface Structures. 
 <!-- Also, he is working on reduced quadrature; RKPM; jax-based computing as well. -->
   He has immersed himself in computational mechanics, diligently improving his "*yield strength*" and "*fatigue strength*". He is looking forward to simulating everything and building the bridge from theoretical knowledge to engineering applications. In terms of hobbies, he likes music, calligraphy, and all kinds of sports, such as snowboarding, tennis, basketball and swimming.
  <!-- "Stay hungry, Stay foolish." -->
 
-Please feel free to contact him if any queries.
+Please feel free to contact him if you have any queries.
 
 <!-- /Русский -->
 <p align="right"> (Recent update on 2026/9/16) </p>
 
 ## Education
-* **Ph.D** in Mechanics of Solids, School of Engineering, Brown University, expected (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
+* **Ph.D.** in Mechanics of Solids, School of Engineering, Brown University, expected (Supervisor: [Prof. Yuri Bazilevs](https://scholar.google.com/citations?user=U_FvD34AAAAJ&hl=en)) 
 * **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
 (Supervisor: [Prof. Moubin Liu](https://scholar.google.com/citations?user=guclLlYAAAAJ&hl=en)) 
 * **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
