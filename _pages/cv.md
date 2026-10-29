@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Mechanics of Solids, School of Engineering, Brown University, 2028 expected
+* **Ph.D.** in Mechanics of Solids, School of Engineering, Brown University, expected 2028
 * **Master's Degree** in Mechanical Engineering (Computational Fluid Mechanics), College of Engineering, Peking University, 2024
 * **Bachelor's Degree** in Engineering Mechanics, Department of Engineering Mechanics, Dalian University of Technology, 2021 (Major)
 * **Bachelor's Degree** in Business Administration (Project Management), School of Economics and Management, Dalian University of Technology, 2021 (Minor)
@@ -45,14 +45,14 @@ Research experience
 
 Selected Awards
 ======
-* 2024 **"ESE Studentship"** , *Engineering and Physical Sciences Research Council (EPSRC)*, UK
-* 2023 **"Dean scholarship"** , *Peking University*, China
-* 2023 **"Scientific practice innovation scholarship"** , *Peking University*, China
-* 2022 **"Special academic scholarship"** , *Peking University*, China
-* 2022 **"Academic Rising Star"** , *Peking University*, China 
+* 2024 **"ESE Studentship"**, *Engineering and Physical Sciences Research Council (EPSRC)*, UK
+* 2023 **"Dean scholarship"**, *Peking University*, China
+* 2023 **"Scientific practice innovation scholarship"**, *Peking University*, China
+* 2022 **"Special academic scholarship"**, *Peking University*, China
+* 2022 **"Academic Rising Star"**, *Peking University*, China
 <!-- * (only 5 students in the whole college every year) -->
-* 2022 **"Best Paper Award"**, * 2022 SPHERIC International Workshop (SPHERIC Xi'an 2022)*, [SPHERIC (More information)](https://www.spheric-sph.org/)
-* 2021 **"Outstanding Graduates"** , *Dalian University of Technology*, China
+* 2022 **"Best Paper Award"**, *2022 SPHERIC International Workshop (SPHERIC Xi'an 2022)*, [SPHERIC (More information)](https://www.spheric-sph.org/)
+* 2021 **"Outstanding Graduates"**, *Dalian University of Technology*, China
 * 2020, 2019, 2018 **"Outstanding merit Student"**, *Dalian University of Technology*, China
 <!-- * 2020 **"Outstanding merit Student"**, *Dalian University of Technology*, China -->
 * 2019 "**Taoli scholarship**(Top thousandth)", *Dalian University of Technology*, China
@@ -73,7 +73,7 @@ Skills
 * Other Software
   * Tecplot, ParaView, Origin
   * Zotero, EndNote;
-  * Inventor, AutoCAD (Certificated)
+  * Inventor, AutoCAD (Certified)
   * Inkscape, Visio, Photoshop, Premiere Pro, Lightroom
 * Self-taught Course
   * Computer graphics
